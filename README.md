@@ -1,6 +1,5 @@
-# prework-study-guide
-Study guide for students
 # Prework Study Guide Webpage
+Study guide for students
 
 ## Description
 
